@@ -75,7 +75,6 @@ I take pride in delivering seamless digital experiences that combine performance
 🌐 Portfolio: https://mian-danix.vercel.app
 💼 LinkedIn: https://www.linkedin.com/in/danish-ali-426030290/
 💻 GitHub: https://github.com/Mian-Danix
-
 📧 Email: danixali.734@gmail.com
 
 ---
