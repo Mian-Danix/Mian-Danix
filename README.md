@@ -73,9 +73,9 @@ I take pride in delivering seamless digital experiences that combine performance
 ## 📬 Let's Connect
 
 🌐 **Portfolio:** [your-portfolio-link.com](#)
-💼 **LinkedIn:** [linkedin.com/in/danishali](#)
+💼 **LinkedIn:** [[linkedin.com/in/danishali](https://www.linkedin.com/in/danish-ali-426030290/)](#)
 💻 **GitHub:** [github.com/Mian-Danix](https://github.com/Mian-Danix)
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+📧 **Email:** [your.email@example.com](danixali.734@gmail.com)
 
 ---
 
@@ -83,4 +83,3 @@ I take pride in delivering seamless digital experiences that combine performance
 
 ---
 
-Would you like me to include an **animated typing header** or **visitor counter badge** for extra visual appeal?
